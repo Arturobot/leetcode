@@ -9,7 +9,6 @@ the contiguous subarray [4,-1,2,1] has the largest sum = 6.
 https://leetcode.com/problems/maximum-subarray/description/
 */
 
-
 class Solution {
 public:
 	int maxSubArray(vector<int>& nums) {
